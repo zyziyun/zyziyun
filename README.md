@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Ziyun</h1>
+<h1 align="center">Hey there 👋 I'm Yun Zi</h1>
 
 <p align="center">
   <em>Full-Stack Engineer · AI Application Builder</em>
