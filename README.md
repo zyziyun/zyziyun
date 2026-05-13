@@ -82,18 +82,18 @@ Native iOS tarot app with **on-device AI** (MLX Qwen 2.5 3B), 78-card deck, 17 s
 <tr>
 <td width="50%">
 
-#### [📄 ResumeAI](https://github.com/zyziyun/ResumeAI) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/resume--ai-green?style=flat-square)](https://knflow.com/resume-ai/)
-AI resume review platform with Stripe payments, i18n, and automated analysis pipeline.
+#### [📝 resume-writing-skill](https://github.com/zyziyun/resume-writing-skill) &nbsp; [![Skill](https://img.shields.io/badge/Anthropic-Skill-D97757?style=flat-square)](https://docs.claude.com/en/docs/claude-code/skills)
+Anthropic skill that turns a ~30-page brain-dump or an existing resume into a structured US-market resume + LaTeX + a tier-calibrated personalized handbook.
 
-`Next.js` `Stripe` `AWS DynamoDB` `S3` `next-intl`
+`Anthropic Skill` `LaTeX` `moderncv` `Markdown` `Prompt Engineering`
 
 </td>
 <td width="50%">
 
-#### [🤖 ResumeAgent](https://github.com/zyziyun/ResumeAgent) &nbsp; [![Live](https://img.shields.io/badge/Live-API%20Docs-green?style=flat-square)](https://knflow.com/resume-agent/docs)
-Multi-agent resume analysis backend with RAG and PDF/LaTeX generation.
+#### [🔬 DeepBrief Lab](https://github.com/zyziyun/deepbrief-lab) &nbsp; ![MCP](https://img.shields.io/badge/MCP-Reference-blueviolet?style=flat-square)
+9-notebook student lab building Deep Research from scratch — MCP, A2A, multi-agent orchestration, and HITL approval patterns.
 
-`FastAPI` `LangChain` `LlamaIndex` `OpenAI` `Gemini`
+`Python` `MCP SDK` `FastAPI` `Jupyter` `ipywidgets` `pytest`
 
 </td>
 </tr>
