@@ -36,46 +36,10 @@ AI travel planner with **10+ agent orchestration**, real-time streaming, and Xia
 </td>
 <td width="50%">
 
-#### [📓 KnowFlow AI](https://github.com/zyziyun/knowflow-ai) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/knowflow-green?style=flat-square)](https://knflow.com/knowflow/)
-Notebook-style LLM workspace with project management, document RAG, and SSE streaming chat.
+#### [🔬 DeepBrief Lab](https://github.com/zyziyun/deepbrief-lab) &nbsp; ![MCP](https://img.shields.io/badge/MCP-Reference-blueviolet?style=flat-square)
+9-notebook student lab building Deep Research from scratch — MCP, A2A, multi-agent orchestration, and HITL approval patterns.
 
-`Next.js` `Prisma` `LangChain` `ChromaDB` `NextAuth`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [🔍 Insight Engine](https://github.com/zyziyun/insight-engine) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/insight-green?style=flat-square)](https://knflow.com/insight/)
-Advanced RAG with hybrid search, reranking, HyDE, and multi-strategy retrieval pipeline.
-
-`FastAPI` `Next.js` `ChromaDB` `LangChain` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-#### [🛩️ Museum of Flight](https://github.com/zyziyun/museum-of-flight) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/museum-green?style=flat-square)](https://knflow.com/museum/)
-Aviation knowledge & language training with TTS, semantic search, and vocabulary drills.
-
-`Next.js` `Prisma` `Azure Speech` `ChromaDB` `LangChain`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [🃏 Tarot Mystica Web](https://github.com/zyziyun/tarot-cards) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/tarot-green?style=flat-square)](https://knflow.com/tarot/)
-Interactive tarot readings with animated card spreads, local AI model + cloud API dual mode.
-
-`Next.js` `Framer Motion` `Tailwind CSS` `TypeScript`
-
-</td>
-<td width="50%">
-
-#### [🔮 TarotMystica iOS](https://github.com/zyziyun/tarot-ios) &nbsp; ![App Store](https://img.shields.io/badge/App%20Store-In%20Review-orange?style=flat-square&logo=apple&logoColor=white)
-Native iOS tarot app with **on-device AI** (MLX Qwen 2.5 3B), 78-card deck, 17 spread layouts, and daily card widget.
-
-`SwiftUI` `MLX Swift` `SwiftData` `WidgetKit` `AVFoundation`
+`Python` `MCP SDK` `FastAPI` `Jupyter` `ipywidgets` `pytest`
 
 </td>
 </tr>
@@ -90,10 +54,46 @@ Anthropic skill that turns a ~30-page brain-dump or an existing resume into a st
 </td>
 <td width="50%">
 
-#### [🔬 DeepBrief Lab](https://github.com/zyziyun/deepbrief-lab) &nbsp; ![MCP](https://img.shields.io/badge/MCP-Reference-blueviolet?style=flat-square)
-9-notebook student lab building Deep Research from scratch — MCP, A2A, multi-agent orchestration, and HITL approval patterns.
+#### [🔍 Insight Engine](https://github.com/zyziyun/insight-engine) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/insight-green?style=flat-square)](https://knflow.com/insight/)
+Advanced RAG with hybrid search, reranking, HyDE, and multi-strategy retrieval pipeline.
 
-`Python` `MCP SDK` `FastAPI` `Jupyter` `ipywidgets` `pytest`
+`FastAPI` `Next.js` `ChromaDB` `LangChain` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [📓 KnowFlow AI](https://github.com/zyziyun/knowflow-ai) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/knowflow-green?style=flat-square)](https://knflow.com/knowflow/)
+Notebook-style LLM workspace with project management, document RAG, and SSE streaming chat.
+
+`Next.js` `Prisma` `LangChain` `ChromaDB` `NextAuth`
+
+</td>
+<td width="50%">
+
+#### [🔮 TarotMystica iOS](https://github.com/zyziyun/tarot-ios) &nbsp; ![App Store](https://img.shields.io/badge/App%20Store-In%20Review-orange?style=flat-square&logo=apple&logoColor=white)
+Native iOS tarot app with **on-device AI** (MLX Qwen 2.5 3B), 78-card deck, 17 spread layouts, and daily card widget.
+
+`SwiftUI` `MLX Swift` `SwiftData` `WidgetKit` `AVFoundation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [🛩️ Museum of Flight](https://github.com/zyziyun/museum-of-flight) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/museum-green?style=flat-square)](https://knflow.com/museum/)
+Aviation knowledge & language training with TTS, semantic search, and vocabulary drills.
+
+`Next.js` `Prisma` `Azure Speech` `ChromaDB` `LangChain`
+
+</td>
+<td width="50%">
+
+#### [🃏 Tarot Mystica Web](https://github.com/zyziyun/tarot-cards) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/tarot-green?style=flat-square)](https://knflow.com/tarot/)
+Interactive tarot readings with animated card spreads, local AI model + cloud API dual mode.
+
+`Next.js` `Framer Motion` `Tailwind CSS` `TypeScript`
 
 </td>
 </tr>
