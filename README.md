@@ -28,7 +28,7 @@
 <tr>
 <td width="50%">
 
-#### [✈️ VoyageAI](https://github.com/zyziyun/voyageai) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/voyageai-green?style=flat-square)](https://knflow.com/voyageai/)
+#### [✈️ VoyageAI](https://github.com/voyageai-lab/voyageai-python-service) &nbsp; [![Live](https://img.shields.io/badge/Live-knflow.com/voyageai-green?style=flat-square)](https://knflow.com/voyageai/)
 AI travel planner with **10+ agent orchestration**, real-time streaming, and Xiaohongshu integration.
 
 `React` `Spring Boot` `FastAPI` `Kafka` `K3s` `OpenAI`
