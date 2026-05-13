@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Wendy Yun</h1>
 
 <p align="center">
-  <em>Full-Stack Engineer · AI Application Builder</em>
+  <em>Senior Fullstack AI Engineer · Ships &amp; Teaches Production AI Systems</em>
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Building **AI-native applications** — from multi-agent orchestration to RAG pipelines
-- 🛠️ Full-stack across **React / Next.js / Spring Boot / FastAPI / K3s / AWS**
-- 🌱 Exploring **LLM Agents**, **Retrieval-Augmented Generation**, and **iOS with SwiftUI**
-- 🌐 All projects are **live and deployed** at [knflow.com](https://knflow.com)
+- 🚢 Shipping production AI at **Amazon** — S3 Vectors, S3 Files, and agentic console workflows on the AIM framework
+- 🎓 Teaching a senior **GenAI / AI Engineering** curriculum to 200+ engineers across enterprise cohorts and 1:1 senior mentees
+- 🛠️ Fullstack across **React / Next.js · Spring Boot / FastAPI · AWS / K3s · vLLM / RAG / MCP**
+- 🌐 Live demos and deployed AI products at [knflow.com](https://knflow.com)
 
 ---
 
